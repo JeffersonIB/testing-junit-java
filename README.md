@@ -17,5 +17,6 @@ Pruebas unitarias basadas en el *Curso Completo de Testing y Clean Code con Java
     mvn test
 
 Resultado: `Tests run: 10, Failures: 0, Errors: 0` – **BUILD SUCCESS**
+<img width="800" height="636" alt="image" src="https://github.com/user-attachments/assets/30fae505-2f31-4cbe-b5a0-bd295560a318" />
 
 **Autor:** Jefferson Ibañez (JeffersonIB)
